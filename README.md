@@ -1,4 +1,4 @@
-# Basic Data structures And Algorithms
+# Basic Data Structures and Algorithms
 ---
 
 ### Programming Languages
